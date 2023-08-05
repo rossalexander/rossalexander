@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rossalexander
-- 👀 I’m interested in all things PHP, Laravel, Vue, C#, and IOT.
-- 🌱 I’m currently learning about Machine Learning.
+- 👀 I'm an experienced fullstack developer with a passion for backend development.
+- 🌱 I’m currently learning Java Spring.
 - 💞️ I’m looking to collaborate on open-source projects that aim to make the world a better place.
 - 📫 How to reach me: hello@rossalexander.dev
 
